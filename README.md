@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xFimz
-- 👀 I’m interested in ... Graphic Content Design | Web Dev and... Music !
-- 🌱 I’m currently learning ... UX / UI
-- 📫 How to reach me ... fb.me/FimzKung | Instagram @xFimz 
+- 👀 I’m interested in - Graphic Content Design | Web Dev and... Music !
+- 🌱 I’m currently learning - UX / UI
+- 📫 How to reach me - fb.me/FimzKung | Instagram @xFimz 
 
 
 <!---
